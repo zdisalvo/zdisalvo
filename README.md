@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-<br>🔭 I’m currently working on furthering my knowledge of machine learning
+<br>🔭 I’m currently working on furthering my knowledge of Java backend database implemenatation in SQL
 <br>🌱 I’m currently learning Amazon DynamoDB, AWS Lambda, Java request handling integration with JavaScript
 <br>👯 I’m looking to collaborate on New Projects 
 <br>💬 Ask me about the CRM project I recently completed
@@ -12,7 +12,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zack-di-salvo-44623138/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zdisalvo/) 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
