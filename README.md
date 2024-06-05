@@ -4,10 +4,10 @@
 
 
 # 💫 About Me:
-<br>🔭 I’m currently working on furthering my knowledge of Java backend database implemenatation in SQL
-<br>🌱 I’m currently learning Amazon DynamoDB, AWS Lambda, Java request handling integration with JavaScript
-<br>👯 I’m looking to collaborate on New Projects 
-<br>💬 Ask me about the CRM project I recently completed
+<br>🔭 I’m working on furthering my knowledge of Java backend database implemenatation in SQL
+<br>🌱 I’m currently learning and applying React and Python3
+<br>👯 I’m looking to collaborate on new ideas and projects 
+<br>💬 Ask me about my latest project
 <br>📫 How to reach me: zdisalvo@gmail.com
 <br>⚡ Fun fact: I am an artist and avid tennis player
 
