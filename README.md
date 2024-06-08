@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-<br>🔭 I’m working on furthering my knowledge of Java backend database implemenatation in SQL
+<br>🔭 I’m working on a gamified solution to connect local users of my new application
 <br>🌱 I’m currently learning and applying React and Python3
 <br>👯 I’m looking to collaborate on new ideas and projects 
 <br>💬 Ask me about my latest project
